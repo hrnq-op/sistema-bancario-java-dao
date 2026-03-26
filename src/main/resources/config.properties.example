@@ -1,0 +1,8 @@
+# CONFIGURAÇÃO DE EXEMPLO
+# Copie este conteúdo, crie um arquivo chamado 'config.properties' e preencha com seus dados reais.
+
+db.url=jdbc:mysql://localhost:3306/NOME_DO_SEU_BANCO
+db.user=SEU_USUARIO_AQUI
+db.pass=SUA_SENHA_AQUI
+gerente.nome=NOME_DO_GERENTE
+gerente.senha=SENHA_DO_GERENTE
